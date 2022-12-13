@@ -1240,7 +1240,7 @@ readers do not read off random characters that represent icons */
   content: "\f38f"; }
 
 .fa-desktop:before {
-  content: "\f108"; }
+  content: "\f007"; }
 
 .fa-dev:before {
   content: "\f6cc"; }
